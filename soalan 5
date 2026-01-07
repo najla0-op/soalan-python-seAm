@@ -1,0 +1,4 @@
+radius = int(input("Enter the radius of a circle: "))
+pi = 3.142
+calculates = pi * radius *2
+print("area of the circle: ", calculates)
