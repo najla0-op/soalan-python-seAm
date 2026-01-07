@@ -1,0 +1,8 @@
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+total1 = num1 + num2 
+total2 = num1 - num2
+total3 = num1 * num2
+print("sum: ", total1)
+print("difference: ", total2)
+print("product: ", total3)
