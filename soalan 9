@@ -1,0 +1,8 @@
+name = str(input("Enter student's name: "))
+sub1 = int(input("Enter first subject's mark: "))
+sub2 = int(input("Enter second subject's mark: "))
+sub3 = int(input("Enter third subject's mark: "))
+calculate1 = sub1 + sub2 + sub3
+calculate2 = sub1 + sub2 + sub3/ 3
+print("total marks : ", calculate1)
+print("average marks: ", calculate2)
